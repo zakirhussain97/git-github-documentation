@@ -1,10 +1,10 @@
 # git-github-documentation
-Git and GitHub Onboarding Documentation for ChaiCode Cohort
+Git and GitHub Onboarding Documentation
 
 # Welcome to Git and GitHub at ChaiCode Cohort!
 
 ## Introduction
-Welcome to the ChaiCode Cohort! This documentation is designed to help new developers get started with Git and GitHub, essential tools for version control and collaboration in our projects. By following this guide, you'll learn how to set up Git, use basic commands, and collaborate effectively using GitHub.
+Welcome! This documentation is designed to help new developers get started with Git and GitHub, essential tools for version control and collaboration in our projects. By following this guide, you'll learn how to set up Git, use basic commands, and collaborate effectively using GitHub.
 
 ## Basics of Git and GitHub
 ### What is Git?
@@ -45,7 +45,7 @@ git config --global user.email "your.email@example.com"
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
 ```bash
-git clone https://github.com/ChaiCode/example-repo.git
+git clone https://github.com/demo/example-repo.git
 ```
 3. Navigate into the cloned repository folder:
 ```bash
@@ -129,5 +129,5 @@ At ChaiCode, we use the following branching strategy:
 - Pull updates frequently to avoid conflicts.
 - Follow the commit message rules and branching strategy.
 
-By following this guide, you'll be well on your way to mastering Git and GitHub at ChaiCode Cohort. Happy coding!
+By following this guide, you'll be well on your way to mastering Git and GitHub. Happy coding!
 ```
