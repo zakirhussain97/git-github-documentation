@@ -1,7 +1,7 @@
 # git-github-documentation
 Git and GitHub Onboarding Documentation
 
-# Welcome to Git and GitHub at ChaiCode Cohort!
+# Welcome to Git and GitHub!
 
 ## Introduction
 Welcome! This documentation is designed to help new developers get started with Git and GitHub, essential tools for version control and collaboration in our projects. By following this guide, you'll learn how to set up Git, use basic commands, and collaborate effectively using GitHub.
