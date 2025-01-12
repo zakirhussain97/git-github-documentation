@@ -129,12 +129,5 @@ At ChaiCode, we use the following branching strategy:
 - Pull updates frequently to avoid conflicts.
 - Follow the commit message rules and branching strategy.
 
-## Deliverables
-Submit a well-structured document in Markdown (README.md) format, saved in a GitHub repository. Your repository should include:
-- A properly formatted README.md file with screenshots embedded.
-- At least 5 commits demonstrating meaningful commit messages.
-- A sample branch created and merged with the main branch.
-- At least one pull request demonstrating the workflow.
-
 By following this guide, you'll be well on your way to mastering Git and GitHub at ChaiCode Cohort. Happy coding!
 ```
